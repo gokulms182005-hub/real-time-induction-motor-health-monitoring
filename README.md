@@ -39,3 +39,16 @@ Sensor Data → Data Processing → Fault Detection → Alert
 **Simulation Prototype / Work in Progress**
 
 The current version uses simulated sensor values. Physical motor and sensor hardware implementation is planned as future work.
+## Results
+
+### Normal Condition
+![Normal Condition](results/normal-condition.png)
+
+### Over Current
+![Over Current](results/over-current.png)
+
+### Over Temperature
+![Over Temperature](results/over-temperature.png)
+
+### High Vibration
+![High Vibration](results/high-vibration.png)
